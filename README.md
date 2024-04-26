@@ -20,7 +20,8 @@
 	- Compare: Changes between commits, changes between branches, specific file changes.
 
     g. What is the main branch?
+	- Typically the primary branch in a Git repository (main when created in github or master when initiated locally)
 
     h. Besides our initial commit if it is a new repository, should we directly push our changes directly into the main branch?
-
+	-   In team projects better go through pull request/ review process. 
 
