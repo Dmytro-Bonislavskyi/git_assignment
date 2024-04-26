@@ -3,11 +3,15 @@
 
     a. What is an issue?
 	- Issues are used to track todos, bugs, feature requests, and more. 
+
     b. What is a pull request?
 	- Pull requests help you collaborate on code with other people.
+
     c. How do I open up a pull request?
+	- To open up a pull request, go to the repository on GitHub, click on the "Pull Requests" tab, then click the "New pull request" button, select the branches you want to merge, and follow the prompts to create the pull request.
 
     d. Give me a step by step guide on how to add someone to your repository.
+	- In the repository on GitHub, click on "Settings", then "Manage access", and finally, click on "Invite a collaborator".
 
     e. What is the difference between git and GitHub?
 
