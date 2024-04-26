@@ -14,8 +14,10 @@
 	- In the repository on GitHub, click on "Settings", then "Manage access", and finally, click on "Invite a collaborator".
 
     e. What is the difference between git and GitHub?
+	- Git is a version control system for tracking changes in files. GitHub is one of a web-based platforms built around Git that provides hosting and collaboration features.
 
     f. What does git diff do?
+	- Compare: Changes between commits, changes between branches, specific file changes.
 
     g. What is the main branch?
 
